@@ -54,7 +54,7 @@ interests:
 education:
   - area: PhD Neuroscience
     institution: EPFL
-    date_start: 2024-09-01
+    date_start: 2024
     # date_end: 2020-12-31
     # summary: |
     #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
@@ -183,4 +183,4 @@ education:
 
 ## About Me
 
-I am a PhD student at the Neuroengineering lab at EPFL in Lausanne, Switzerland.
+I am a PhD student at the [Neuroengineering lab](https://www.epfl.ch/labs/ramdya-lab/) at EPFL in Lausanne, Switzerland.
