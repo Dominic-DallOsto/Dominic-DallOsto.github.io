@@ -1,11 +1,11 @@
 ---
 title: Theoretical Principles Explain the Structure of the Insect Head Direction Circuit
 authors:
-- Pau Aceituno
-- Dominic Dall'Osto
+- Pau Aceituno*
+- Dominic Dall'Osto*
 - Ioannis Pisokas
 date: '2024-05-01'
-publishDate: '2025-02-23T19:02:58.923299Z'
+publishDate: '2025-02-23T19:42:35.024986Z'
 publication_types:
 - article-journal
 publication: '*eLife*'
@@ -29,10 +29,8 @@ abstract: To navigate their environment, insects need to keep track of their ori
   head direction circuits across multiple insect species is not a chance artefact
   but instead can be explained by basic evolutionary principles.
 tags:
-- compass system
-- encoding
-- head direction cells
+- Compass system
+- Head direction cells
 - Hebbian plasticity
-- navigation
-- Schistocerca gregaria
+- Navigation
 ---

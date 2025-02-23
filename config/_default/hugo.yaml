@@ -8,6 +8,14 @@ title: Dominic Dall'Osto
 # Website URL
 baseURL: "https://dominic-dallosto.github.io/"
 
+# don't share the sharing buttons for publications
+cascade:
+  - _target:
+      path: /publication/**
+    share: false
+    reading_time: false
+    profile: false
+
 ############################
 ## LANGUAGE
 ############################

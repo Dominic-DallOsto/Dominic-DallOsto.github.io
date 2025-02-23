@@ -6,7 +6,7 @@ authors:
 - Adam Jacobson
 - Michael Milford
 date: '2018-01-01'
-publishDate: '2025-02-23T19:02:58.933804Z'
+publishDate: '2025-02-23T19:42:35.030877Z'
 publication_types:
 - paper-conference
 publication: '*Australasian Conference on Robotics and Automation 2018*'
@@ -25,4 +25,7 @@ abstract: "Neural networks have long been a promising model for creating high pe
   calibrate a large range of network sizes, allowing rapid development and deployment
   of a bio-inspired SLAM system. Our work serves as a bridging contribution between
   traditional hand-crafted neural networks and modern end-to-end learning approaches."
+links:
+- name: URL
+  url: https://eprints.qut.edu.au/199351/
 ---
