@@ -1,0 +1,5 @@
+# don't share the sharing buttons for publications
+cascade:
+  - _target:
+      path: /publication/**
+    share: false
